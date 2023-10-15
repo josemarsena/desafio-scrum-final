@@ -1,4 +1,5 @@
-# ESTUDO DE CASO H&R BLOCK - UMA ANÁLISE CRITICA
+# ESTUDO DE CASO H&R BLOCK
+  UMA ANÁLISE CRITICA
 
 Nossa análise se baseia no caso da H&R Block. Entendendo melhor a situação da empresa e o problema apresentadado
 podemos dizer que inumeros casos similares se fazem presentes aqui mesmo no Brasil. Na época do Imposto de Renda,
