@@ -9,8 +9,12 @@ e nem sempre com as informações devidamente organizadas.
 Entao o caos se estabelece por dias até finalizar os processos de cada cliente.
 
 
-Porque a Abordagem Agil foi utilizada e nao a tradicional para o projeto?
+## ABORDAGEM AGIL X ABORDAGEM TRADICIONAL. PORQUE?
 
+Cada problema uma visão e uma ação diferente. Talvez o fato de ser uma empresa tradicional e com uma cultura eminentemente
+tradicional, um olhar critico pudesse nos levar aos métodos tradicionais de gestão. 
+
+Acontece que um
 
 Porque o Scrum foi utilizado?
 
